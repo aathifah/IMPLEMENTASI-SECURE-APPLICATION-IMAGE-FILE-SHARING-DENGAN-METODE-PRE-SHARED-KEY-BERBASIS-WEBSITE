@@ -1,0 +1,46 @@
+
+input#file{
+    display: none;
+}
+label#upload {
+    height: 50px;
+    width: 180px;
+    border-radius: 6px;
+    border: 1px dashed #3d13bb;
+    padding: 10px 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    display: flex;
+
+}
+
+label#upload :hover {
+    color: cornflowerblue;
+    border: 1px dashed #14b63c;
+}
+
+
+label#upload {
+    height: 50px;
+    width: 180px;
+    border-radius: 6px;
+    border: 1px dashed #3d13bb;
+    padding: 10px 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    display: flex;
+
+}
+
+.container {
+    position: absolute;
+    align-items: center;
+
+    bottom: 50%;
+    left: 38%;
+    width: 400px;
+}
